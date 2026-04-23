@@ -37,10 +37,6 @@ body {
   height: 40px;
 }
 
-.nav {
-  text-decoration: none;
-}
-
 .nav-list {
   display: flex;
   list-style: none;
@@ -51,6 +47,7 @@ body {
 .nav-item:not(:last-child) {
   margin-right: 20px;
 }
+
 .nav-link {
   height: 60px;
   text-decoration: none;
@@ -62,7 +59,6 @@ body {
 }
 
 .nav-link.is-active {
-  position: relative;
   color: var(--blue-color);
 }
 
@@ -77,6 +73,7 @@ body {
   border-radius: 8px;
   display: block;
 }
+
 .nav-link:hover {
   color: var(--blue-color);
 }
