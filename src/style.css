@@ -29,6 +29,7 @@ body {
   justify-content: space-between;
   padding: 0 50px;
   overflow: hidden;
+  flex-shrink: 0;
 }
 
 .logo-link img {
