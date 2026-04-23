@@ -78,6 +78,7 @@ body {
 .nav-link:hover {
   color: var(--blue-color);
 }
+
 .nav {
   display: block;
   margin: 0;
