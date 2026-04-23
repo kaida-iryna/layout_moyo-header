@@ -71,7 +71,6 @@ body {
   height: 4px;
   background-color: var(--blue-color);
   border-radius: 8px;
-  display: block;
 }
 
 .nav-link:hover {
